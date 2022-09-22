@@ -32,8 +32,8 @@
 //         "context"
 //         "log"
 //
-//         "github.com/aquasecurity/esquery"
-//         "github.com/elastic/go-elasticsearch/v7"
+//         "github.com/aquasecurity/esquery/v8"
+//         "github.com/elastic/go-elasticsearch/v8"
 //     )
 //
 //     func main() {

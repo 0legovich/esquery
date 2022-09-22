@@ -35,7 +35,7 @@ This is an early release, API may still change.
 `esquery` is a Go module. To install, simply run this in your project's root directory:
 
 ```bash
-go get github.com/aquasecurity/esquery
+go get github.com/aquasecurity/esquery/v8
 ```
 
 ## Usage
@@ -51,8 +51,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/aquasecurity/esquery"
-	"github.com/elastic/go-elasticsearch/v7"
+	"github.com/aquasecurity/esquery/v8"
+	"github.com/elastic/go-elasticsearch/v8"
 )
 
 func main() {
